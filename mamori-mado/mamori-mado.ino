@@ -1,4 +1,6 @@
 #include <M5Atom.h>
+#include <FastLED.h>
+
 const int smileMap[25] = {
   0,0,0,0,0,
   0,1,0,1,0,
