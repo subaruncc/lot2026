@@ -1,8 +1,8 @@
 #include <M5Atom.h>
 #include <WiFi.h>
 
-const char* ssid = "001NCC-WiFi";
-const char* password = "001NCC0707"; // 👈 末尾に「;」を追加しました
+const char* ssid = "DESKTOP-MRRI7S21611";
+const char* password = "A3R7252d"; // 👈 末尾に「;」を追加しました
 
 // ニコちゃんマーク（緑色）の配置データ
 // 0: 消灯, 1: 点灯
